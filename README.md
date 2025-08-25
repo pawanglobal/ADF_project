@@ -1,6 +1,6 @@
 # Azure Data Factory – End-to-End Project with Azure DevOps
 
-<img src="assets/azure.png" alt="Project Overview" width="50%">  
+![Project Overview](assets/azure.png)
 
 ## Introduction
 
